@@ -60,11 +60,8 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: "Noto Serif JP", serif;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
-    }
+    font-family: 'Cherry Bomb One', cursive;
+}
 
 @media (max-width: 800px) {
     .site-menu ul {
@@ -95,18 +92,6 @@ img {
 
     .header-logo {
         width: 100px;
-    }
-
-    .main {
-        padding-top: 50px;;
-    }
-
-    .footer-logo {
-        margin-top: 60px;
-    }
-
-    .copyright {
-        margin-top: 50px;
     }
 }
 
